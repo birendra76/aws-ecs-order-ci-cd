@@ -36,4 +36,3 @@ artifacts:
   files:
     - imagedefinitions.json
     - target/order-service.jar
-	
